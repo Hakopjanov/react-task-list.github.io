@@ -23,6 +23,16 @@ const toDoListData = [
         id: 5,
         text: 'think about taking red',
         completed: false
+    },
+    {
+        id: 6,
+        text: 'work',
+        completed: false
+    },
+    {
+        id: 7,
+        text: 'work harder',
+        completed: false
     }
 ]
 
